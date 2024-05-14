@@ -1,4 +1,4 @@
-**git clone https://github.com/yourusername/log-ingestion.git**
+
 
 **pip install requirement.txt**
 
